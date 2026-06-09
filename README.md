@@ -27,7 +27,7 @@ Monthly Sales Trend
 Sales by Region
 Monthly Profit Analysis
 Sales Target Achievement
-
+https://github.com/sayyadbasha414/Enterprise-Sales-Performance-Dashboard/blob/main/Executive%20Overview.png
 
 2️⃣ Sales by Product Analysis
 Analyzes product-level performance.

@@ -14,6 +14,7 @@ Identify top-performing customers and products.
 Support strategic business decisions using data-driven insights.
 
 📊 Dashboard Pages
+
 1️⃣ Executive Sales & Profit Overview
 Provides a high-level overview of business performance.
 Key KPIs
@@ -85,6 +86,8 @@ Order Status
 Delivered
 Pending
 Cancelled
+
+https://github.com/sayyadbasha414/Enterprise-Sales-Performance-Dashboard/blob/main/Customer%20Analysis.png
 
 📈 Business Metrics Covered
 Sales Metrics

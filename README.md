@@ -44,6 +44,8 @@ Sales by Region
 Product Profitability Analysis
 Category Performance Summary
 
+https://github.com/sayyadbasha414/Enterprise-Sales-Performance-Dashboard/blob/main/Sales%20By%20Product.png
+
 3️⃣ Customer Analysis
 Provides insights into customer performance and segmentation.
 Key KPIs

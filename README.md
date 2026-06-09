@@ -17,114 +17,115 @@ Support strategic business decisions using data-driven insights.
 
 1️⃣ Executive Sales & Profit Overview
 Provides a high-level overview of business performance.
-Key KPIs
-Total Sales
-Total Customers
-Total Orders
-Profit Margin
-Sales Achievement %
-Analysis
-Monthly Sales Trend
-Sales by Region
-Monthly Profit Analysis
+Key KPIs, 
+Total Sales, 
+Total Customers, 
+Total Orders, 
+Profit Margin, 
+Sales Achievement %, 
+Analysis, 
+Monthly Sales Trend, 
+Sales by Region, 
+Monthly Profit Analysis, 
 Sales Target Achievement
 
 https://github.com/sayyadbasha414/Enterprise-Sales-Performance-Dashboard/blob/main/Executive%20Overview.png
 
 2️⃣ Sales by Product Analysis
 Analyzes product-level performance.
-Key KPIs
-Sales Growth %
-Total Sales
-Average Sales
-Sales Target
-Profit Margin %
-Visuals
-Top 20 Products
-Sales by Category
-Sales by Region
-Product Profitability Analysis
-Category Performance Summary
+Key KPIs, 
+Sales Growth %, 
+Total Sales, 
+Average Sales, 
+Sales Target, 
+Profit Margin %, 
+Visuals, 
+Top 20 Products, 
+Sales by Category, 
+Sales by Region, 
+Product Profitability Analysis, 
+Category Performance Summary.
 
 https://github.com/sayyadbasha414/Enterprise-Sales-Performance-Dashboard/blob/main/Sales%20By%20Product.png
 
 3️⃣ Customer Analysis
 Provides insights into customer performance and segmentation.
-Key KPIs
-Total Customers
-Total Sales
-Total Orders
-Average Order Value
-Total Profit
-Analysis
-Customer Segment Distribution
-Sales by Customer Segment
-Sales by City
-Top Customers
-Customer Performance Ranking
-Customer Segments
-SME
-Corporate
-Retail
+Key KPIs, 
+Total Customers, 
+Total Sales, 
+Total Orders, 
+Average Order Value, 
+Total Profit, 
+Analysis, 
+Customer Segment Distribution, 
+Sales by Customer Segment, 
+Sales by City, 
+Top Customers, 
+Customer Performance Ranking, 
+Customer Segments, 
+SME, 
+Corporate, 
+Retail.
 
 https://github.com/sayyadbasha414/Enterprise-Sales-Performance-Dashboard/blob/main/Customer%20Analysis.png
 
 4️⃣ Delivery Operations Dashboard
 Tracks order fulfillment and delivery performance.
-Key KPIs
-Total Orders
-Average Order Value
-Sales Target
-Average Delivery Days
-Analysis
-Orders by Status
-Monthly Delivery Trends
-Average Delivery Days
-Region-wise Delivery Performance
-Category-wise Delivery Analysis
-Order Status
-Delivered
-Pending
-Cancelled
+Key KPIs, 
+Total Orders, 
+Average Order Value, 
+Sales Target, 
+Average Delivery Days, 
+Analysis, 
+Orders by Status, 
+Monthly Delivery Trends, 
+Average Delivery Days, 
+Region-wise Delivery Performance, 
+Category-wise Delivery Analysis, 
+Order Status, 
+Delivered, 
+Pending, 
+Cancelled.
 
 https://github.com/sayyadbasha414/Enterprise-Sales-Performance-Dashboard/blob/main/Customer%20Analysis.png
 
 📈 Business Metrics Covered
-Sales Metrics
-Total Sales
-Sales Growth %
-Average Sales
-Sales Achievement %
-Profit Margin %
-Customer Metrics
-Total Customers
-Customer Segmentation
-Average Order Value
-Customer Ranking
-Product Metrics
-Product Sales
-Product Profitability
-Category Performance
-Quantity Sold
-Delivery Metrics
-Delivery Time
-Order Status
-Fulfillment Performance
-Delivery Efficiency
+Sales Metrics, 
+Total Sales, 
+Sales Growth %, 
+Average Sales, 
+Sales Achievement %, 
+Profit Margin %, 
+Customer Metrics, 
+Total Customers, 
+Customer Segmentation, 
+Average Order Value, 
+Customer Ranking, 
+Product Metrics, 
+Product Sales, 
+Product Profitability, 
+Category Performance, 
+Quantity Sold, 
+Delivery Metrics, 
+Delivery Time, 
+Order Status, 
+Fulfillment Performance, 
+Delivery Efficiency.
 
 🎛️ Interactive Filters
 Users can dynamically filter reports using:
-Date
-Year
-Month
-Region
-Customer Name
-Customer Segment
-Product Category
-Product ID
-Industry
-Activity Status
-Order Status
+Date, 
+Year, 
+Month, 
+Region, 
+Customer Name, 
+Customer Segment, 
+Product Category, 
+Product ID, 
+Industry, 
+Activity Status, 
+Order Status.
+
 🛠️ Tools & Technologies
 Power BI Desktop
 Power Query
@@ -132,6 +133,7 @@ DAX
 Data Modeling
 Excel Dataset
 Power BI Service
+
 📂 Data Model
 Fact Tables
 Sales Fact Table
